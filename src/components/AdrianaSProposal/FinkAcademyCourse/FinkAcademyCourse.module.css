@@ -1,0 +1,334 @@
+.root {
+  position: relative;
+  width: 1728px;
+  height: 1118px;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.frame2609565 {
+  position: absolute;
+  left: 147px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+._2TheBasicsOfStockInvesting {
+  color: #292c43;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.afterSedDoEiusmodTemporIncidid {
+  color: #525886;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 709px;
+  height: min-content;
+  flex-direction: column;
+}
+.howDoYouStartInvesting {
+  color: #525886;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 887px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.firstItSImportantToDolorSitAme {
+  color: #525886;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 939px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.menu {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 24px;
+}
+.magnify {
+  width: 32px;
+  height: 32px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.notificationsNone {
+  width: 32px;
+  height: 32px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse157 {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.messageTextCircle2 {
+  width: 40px;
+  height: 40px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.estimatedTimeToComplete18Min {
+  color: #292c43;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 193px;
+  width: 452px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2609704 {
+  position: absolute;
+  left: 147px;
+  top: 257px;
+  width: 936px;
+  height: 590px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #292c43;
+  overflow: hidden;
+}
+.image221 {
+  position: absolute;
+  left: 0;
+  top: -119px;
+  width: 936px;
+  height: 936px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22115.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dASHNAV {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: 1118px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 19px;
+  border-radius: 0 24px 24px 0;
+  background-color: #e7e9f9;
+}
+.menu2 {
+  height: 35px;
+  align-self: stretch;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.frame2609450 {
+  width: min-content;
+  height: 563px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.frame2609390 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2608907 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.frame128 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+}
+.frame123 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.homeOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.frame124 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.chartTimelineVariantShimmer {
+  width: 25px;
+  height: 25px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.frame126 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 999px;
+}
+.walletBifoldOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.frame129 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.schoolOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.frame127 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.commentAccountOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge {
+  position: absolute;
+  left: 97.1065%;
+  right: 1.9676%;
+  top: 1.1628%;
+  bottom: 97.4061%;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge2 {
+  position: absolute;
+  left: 97.9745%;
+  right: 1.3889%;
+  top: 1.9678%;
+  bottom: 97.0483%;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.buttonPrimary {
+  position: absolute;
+  left: 945px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  outline: solid 2px #525886;
+  outline-offset: -2px;
+  border-radius: 73px;
+}
+.nextLesson {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.buttonPrimary2 {
+  position: absolute;
+  left: 813px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 73px;
+}
+.previous {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

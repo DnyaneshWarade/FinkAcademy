@@ -1,0 +1,2191 @@
+.root {
+  width: 5762px;
+  height: 4391px;
+  max-height: 100%;
+  align-items: flex-start;
+}
+.finkAcademyHomeChatDefault {
+  position: relative;
+  width: 1728px;
+  height: 1118px;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.frame2609565 {
+  position: absolute;
+  left: 147px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.finkAcademy {
+  color: #292c43;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.allYourStockInvestingQuestions {
+  color: #525886;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2609703 {
+  position: absolute;
+  left: 147px;
+  top: 263px;
+  width: 936px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content {
+  position: absolute;
+  left: 328px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._1Introduction {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.understandBasicConsecteturAdip {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._6MinCompletedSep132023 {
+  position: absolute;
+  left: 328px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #292c43;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #3ea50e;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.picture {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image221 {
+  position: absolute;
+  left: -27px;
+  top: -42px;
+  width: 334px;
+  height: 334px;
+  background-image:/* webpackIgnore: true */ url('/assets/image221.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2609706 {
+  position: absolute;
+  left: 147px;
+  top: 647px;
+  width: 936px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content2 {
+  position: absolute;
+  left: 328px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._3NextSteps {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.continueWithEiusmodTemporIncid {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._11Min {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2212 {
+  position: absolute;
+  left: -27px;
+  top: -42px;
+  width: 334px;
+  height: 334px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2212.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2609704 {
+  position: absolute;
+  left: 147px;
+  top: 455px;
+  width: 936px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content3 {
+  position: absolute;
+  left: 328px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._2TheBasicsOfStockInvesting {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.afterSedDoEiusmodTemporIncidid {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._18MinInProgress {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2213 {
+  position: absolute;
+  left: 0;
+  top: -42px;
+  width: 280px;
+  height: 280px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2213.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2609707 {
+  position: absolute;
+  left: 147px;
+  top: 839px;
+  width: 936px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content4 {
+  position: absolute;
+  left: 328px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._4StockInvestingWeekWithStockFi {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.learnAboutTemporIncididuntUtLa {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._3Min {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2214 {
+  position: absolute;
+  left: 0;
+  top: -12px;
+  width: 280px;
+  height: 280px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2214.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.loader {
+  position: absolute;
+  left: 147px;
+  top: 219px;
+  width: 936px;
+  height: 4px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+._31Completed {
+  color: #292c43;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 193px;
+  width: 246px;
+  height: min-content;
+  flex-direction: column;
+}
+.dASHNAV {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: 1118px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 19px;
+  border-radius: 0 24px 24px 0;
+  background-color: #e7e9f9;
+}
+.menu {
+  height: 35px;
+  align-self: stretch;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.frame2609450 {
+  width: min-content;
+  height: 563px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.frame2609390 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame2608907 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.frame128 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+}
+.frame123 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.homeOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.frame124 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.chartTimelineVariantShimmer {
+  width: 25px;
+  height: 25px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.frame126 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 999px;
+}
+.walletBifoldOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.frame129 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.schoolOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.frame127 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.commentAccountOutline {
+  width: 25px;
+  height: 25px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.menu2 {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 24px;
+}
+.magnify {
+  width: 32px;
+  height: 32px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.notificationsNone {
+  width: 32px;
+  height: 32px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse157 {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.messageTextCircle2 {
+  width: 40px;
+  height: 40px;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge {
+  position: absolute;
+  left: 97.1065%;
+  right: 1.9676%;
+  top: 1.1628%;
+  bottom: 97.4061%;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge2 {
+  position: absolute;
+  left: 97.9745%;
+  right: 1.3889%;
+  top: 1.9678%;
+  bottom: 97.0483%;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.finkAcademyCourseChatDefault {
+  position: relative;
+  width: 1728px;
+  height: 1118px;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.frame26095652 {
+  position: absolute;
+  left: 147px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+._2TheBasicsOfStockInvesting2 {
+  color: #292c43;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.afterSedDoEiusmodTemporIncidid2 {
+  color: #525886;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 709px;
+  height: min-content;
+  flex-direction: column;
+}
+.howDoYouStartInvesting {
+  color: #525886;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 887px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.firstItSImportantToDolorSitAme {
+  color: #525886;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 939px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.menu3 {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 24px;
+}
+.magnify2 {
+  width: 32px;
+  height: 32px;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.notificationsNone2 {
+  width: 32px;
+  height: 32px;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse1572 {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.messageTextCircle22 {
+  width: 40px;
+  height: 40px;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.estimatedTimeToComplete18Min {
+  color: #292c43;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 193px;
+  width: 452px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26097042 {
+  position: absolute;
+  left: 147px;
+  top: 257px;
+  width: 936px;
+  height: 590px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #292c43;
+  overflow: hidden;
+}
+.image2215 {
+  position: absolute;
+  left: 0;
+  top: -119px;
+  width: 936px;
+  height: 936px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2215.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dASHNAV2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: 1118px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 19px;
+  border-radius: 0 24px 24px 0;
+  background-color: #e7e9f9;
+}
+.menu4 {
+  height: 35px;
+  align-self: stretch;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.frame26094502 {
+  width: min-content;
+  height: 563px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.frame26093902 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26089072 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.frame1282 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+}
+.frame1232 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.homeOutline2 {
+  width: 25px;
+  height: 25px;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.frame1242 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.chartTimelineVariantShimmer2 {
+  width: 25px;
+  height: 25px;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.frame1262 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 999px;
+}
+.walletBifoldOutline2 {
+  width: 25px;
+  height: 25px;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.frame1292 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.schoolOutline2 {
+  width: 25px;
+  height: 25px;
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.frame1272 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.commentAccountOutline2 {
+  width: 25px;
+  height: 25px;
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.buttonPrimary {
+  position: absolute;
+  left: 945px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  outline: solid 2px #525886;
+  outline-offset: -2px;
+  border-radius: 73px;
+}
+.nextLesson {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.buttonPrimary2 {
+  position: absolute;
+  left: 813px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 73px;
+}
+.previous {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chat {
+  position: absolute;
+  left: 1147px;
+  top: 88px;
+  width: 557px;
+  height: 1006px;
+  align-items: flex-start;
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 4px 12px 0px #52588633;
+}
+.image_222RemovebgPreview1 {
+  position: absolute;
+  left: 144px;
+  top: 76px;
+  width: 270px;
+  height: 270px;
+  background-image:/* webpackIgnore: true */ url('/assets/image_222RemovebgPreview12.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iMYourAIAssistantAskMeAnything {
+  color: #292c43;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 101px);
+  width: 413px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.frame2609708 {
+  position: absolute;
+  left: calc(50% - 5.5px);
+  top: 476px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  transform: translateX(-50%);
+}
+.frame39550 {
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.whatIsETF {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame39551 {
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.whichInvestmentPlatformShouldI {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame39552 {
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.whatIsUnrealizedProfit {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame39553 {
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.canYouExplainThisLessonInASimp {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame39554 {
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.isStockInvestingSafe {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame395502 {
+  position: absolute;
+  left: 16px;
+  top: 910px;
+  width: 525px;
+  height: 80px;
+  place-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 24px;
+  background-color: #e7e9f9;
+}
+.askMeAnything {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 477px;
+  height: min-content;
+  flex-direction: column;
+}
+.vector {
+  width: 23.3786px;
+  height: 24.75px;
+  overflow: visible;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.cover {
+  position: absolute;
+  left: 0;
+  top: 577px;
+  width: 557px;
+  height: 230px;
+  background-image: linear-gradient(0deg, #ffff 0%, #fff0 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.starLarge3 {
+  position: absolute;
+  left: 97.1065%;
+  right: 1.9676%;
+  top: 1.1628%;
+  bottom: 97.4061%;
+  overflow: visible;
+}
+.icon25 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge4 {
+  position: absolute;
+  left: 97.9745%;
+  right: 1.3889%;
+  top: 1.9678%;
+  bottom: 97.0483%;
+  overflow: visible;
+}
+.icon26 {
+  width: 100%;
+  height: 100%;
+}
+.finkAcademyCourseChatActive {
+  position: relative;
+  width: 1728px;
+  height: 1118px;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.frame26095653 {
+  position: absolute;
+  left: 147px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+._2TheBasicsOfStockInvesting3 {
+  color: #292c43;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.afterSedDoEiusmodTemporIncidid3 {
+  color: #525886;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 709px;
+  height: min-content;
+  flex-direction: column;
+}
+.howDoYouStartInvesting2 {
+  color: #525886;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 887px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.firstItSImportantToDolorSitAme2 {
+  color: #525886;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 939px;
+  width: 936px;
+  height: min-content;
+  flex-direction: column;
+}
+.menu5 {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 24px;
+}
+.magnify3 {
+  width: 32px;
+  height: 32px;
+}
+.icon27 {
+  width: 100%;
+  height: 100%;
+}
+.notificationsNone3 {
+  width: 32px;
+  height: 32px;
+}
+.icon28 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse1573 {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon29 {
+  width: 100%;
+  height: 100%;
+}
+.messageTextCircle23 {
+  width: 40px;
+  height: 40px;
+}
+.icon30 {
+  width: 100%;
+  height: 100%;
+}
+.estimatedTimeToComplete18Min2 {
+  color: #292c43;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 193px;
+  width: 452px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26097043 {
+  position: absolute;
+  left: 147px;
+  top: 257px;
+  width: 936px;
+  height: 590px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #292c43;
+  overflow: hidden;
+}
+.image2216 {
+  position: absolute;
+  left: 0;
+  top: -119px;
+  width: 936px;
+  height: 936px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2216.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dASHNAV3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: 1118px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 19px;
+  border-radius: 0 24px 24px 0;
+  background-color: #e7e9f9;
+}
+.menu6 {
+  height: 35px;
+  align-self: stretch;
+}
+.icon31 {
+  width: 100%;
+  height: 100%;
+}
+.frame26094503 {
+  width: min-content;
+  height: 563px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.frame26093903 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26089073 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.frame1283 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+}
+.frame1233 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.homeOutline3 {
+  width: 25px;
+  height: 25px;
+}
+.icon32 {
+  width: 100%;
+  height: 100%;
+}
+.frame1243 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.chartTimelineVariantShimmer3 {
+  width: 25px;
+  height: 25px;
+}
+.icon33 {
+  width: 100%;
+  height: 100%;
+}
+.frame1263 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 999px;
+}
+.walletBifoldOutline3 {
+  width: 25px;
+  height: 25px;
+}
+.icon34 {
+  width: 100%;
+  height: 100%;
+}
+.frame1293 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.schoolOutline3 {
+  width: 25px;
+  height: 25px;
+}
+.icon35 {
+  width: 100%;
+  height: 100%;
+}
+.frame1273 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.commentAccountOutline3 {
+  width: 25px;
+  height: 25px;
+}
+.icon36 {
+  width: 100%;
+  height: 100%;
+}
+.buttonPrimary3 {
+  position: absolute;
+  left: 945px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  outline: solid 2px #525886;
+  outline-offset: -2px;
+  border-radius: 73px;
+}
+.nextLesson2 {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.buttonPrimary4 {
+  position: absolute;
+  left: 813px;
+  top: 1031px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 73px;
+}
+.previous2 {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chat2 {
+  position: absolute;
+  left: 1147px;
+  top: 88px;
+  width: 557px;
+  height: 1006px;
+  align-items: flex-start;
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 4px 12px 0px #52588633;
+}
+.frame395512 {
+  position: absolute;
+  left: 199px;
+  top: 717px;
+  width: min-content;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 120px;
+  background-color: #8893df;
+}
+.whichInvestmentPlatformShouldI2 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame395522 {
+  position: absolute;
+  left: 16px;
+  top: 781px;
+  width: 468px;
+  height: min-content;
+  padding: 12px 20px;
+  border-radius: 24px;
+  background-color: #f4f6ff;
+}
+.generallyConsecteturAdipiscing {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.frame395503 {
+  position: absolute;
+  left: 16px;
+  top: 910px;
+  width: 525px;
+  height: 80px;
+  place-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 24px;
+  background-color: #e7e9f9;
+}
+.askMeAnything2 {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 477px;
+  height: min-content;
+  flex-direction: column;
+}
+.vector2 {
+  width: 23.3786px;
+  height: 24.75px;
+  overflow: visible;
+}
+.icon37 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge5 {
+  position: absolute;
+  left: 97.1065%;
+  right: 1.9676%;
+  top: 1.1628%;
+  bottom: 97.4061%;
+  overflow: visible;
+}
+.icon38 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge6 {
+  position: absolute;
+  left: 97.9745%;
+  right: 1.3889%;
+  top: 1.9678%;
+  bottom: 97.0483%;
+  overflow: visible;
+}
+.icon39 {
+  width: 100%;
+  height: 100%;
+}
+.finkAcademyHomeCertificate {
+  position: relative;
+  width: 1728px;
+  height: 1118px;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.frame26095654 {
+  position: absolute;
+  left: 147px;
+  top: 80px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.finkAcademy2 {
+  color: #292c43;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 973px;
+  height: min-content;
+  flex-direction: column;
+}
+.allYourStockInvestingQuestions2 {
+  width: 696px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 20px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #525886;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #525886;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame26097032 {
+  position: absolute;
+  left: 207px;
+  top: 217px;
+  width: 876px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content5 {
+  position: absolute;
+  left: 282px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._1Introduction2 {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.understandBasicConsecteturAdip2 {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._6MinCompletedSep1320232 {
+  position: absolute;
+  left: 282px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label7 {
+  color: #292c43;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label8 {
+  color: #3ea50e;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.picture5 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2217 {
+  position: absolute;
+  left: -27px;
+  top: -42px;
+  width: 334px;
+  height: 334px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22111.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame26097062 {
+  position: absolute;
+  left: 207px;
+  top: 601px;
+  width: 876px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content6 {
+  position: absolute;
+  left: 282px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._3NextSteps2 {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.continueWithEiusmodTemporIncid2 {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._11Min2 {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 282px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture6 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2218 {
+  position: absolute;
+  left: -27px;
+  top: -42px;
+  width: 334px;
+  height: 334px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22112.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame26097044 {
+  position: absolute;
+  left: 207px;
+  top: 409px;
+  width: 876px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content7 {
+  position: absolute;
+  left: 282px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._2TheBasicsOfStockInvesting4 {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.afterSedDoEiusmodTemporIncidid4 {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._18MinInProgress2 {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 282px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture7 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image2219 {
+  position: absolute;
+  left: 0;
+  top: -42px;
+  width: 280px;
+  height: 280px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22113.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame26097072 {
+  position: absolute;
+  left: 207px;
+  top: 793px;
+  width: 876px;
+  height: 160px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.content8 {
+  position: absolute;
+  left: 282px;
+  top: 24px;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+._4StockInvestingWeekWithStockFi2 {
+  color: #292c43;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 554px;
+  height: min-content;
+  flex-direction: column;
+}
+.learnAboutTemporIncididuntUtLa2 {
+  color: #525886;
+  font-size: 18px;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+._3Min2 {
+  color: #525886;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Mulish, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 282px;
+  top: 120px;
+  width: 546px;
+  height: min-content;
+  flex-direction: column;
+}
+.picture8 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 200px;
+  align-items: flex-start;
+  background-color: #525886;
+  overflow: hidden;
+}
+.image22110 {
+  position: absolute;
+  left: 0;
+  top: -12px;
+  width: 280px;
+  height: 280px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22114.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.loader2 {
+  position: absolute;
+  left: 170px;
+  top: 292px;
+  width: 4px;
+  height: 740px;
+  overflow: visible;
+}
+.icon40 {
+  width: 100%;
+  height: 100%;
+}
+.loader3 {
+  position: absolute;
+  left: 170px;
+  top: 292px;
+  width: 4px;
+  height: 190px;
+  overflow: visible;
+}
+.icon41 {
+  width: 100%;
+  height: 100%;
+}
+.dASHNAV4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: 1118px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 19px;
+  border-radius: 0 24px 24px 0;
+  background-color: #e7e9f9;
+}
+.menu7 {
+  height: 35px;
+  align-self: stretch;
+}
+.icon42 {
+  width: 100%;
+  height: 100%;
+}
+.frame26094504 {
+  width: min-content;
+  height: 563px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.frame26093904 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame26089074 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+}
+.frame1284 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+}
+.frame1234 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.homeOutline4 {
+  width: 25px;
+  height: 25px;
+}
+.icon43 {
+  width: 100%;
+  height: 100%;
+}
+.frame1244 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.chartTimelineVariantShimmer4 {
+  width: 25px;
+  height: 25px;
+}
+.icon44 {
+  width: 100%;
+  height: 100%;
+}
+.frame1264 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 999px;
+}
+.walletBifoldOutline4 {
+  width: 25px;
+  height: 25px;
+}
+.icon45 {
+  width: 100%;
+  height: 100%;
+}
+.frame1294 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.schoolOutline4 {
+  width: 25px;
+  height: 25px;
+}
+.icon46 {
+  width: 100%;
+  height: 100%;
+}
+.frame1274 {
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.commentAccountOutline4 {
+  width: 25px;
+  height: 25px;
+}
+.icon47 {
+  width: 100%;
+  height: 100%;
+}
+.menu8 {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: min-content;
+  height: min-content;
+  place-content: flex-end;
+  align-items: center;
+  gap: 24px;
+}
+.magnify4 {
+  width: 32px;
+  height: 32px;
+}
+.icon48 {
+  width: 100%;
+  height: 100%;
+}
+.notificationsNone4 {
+  width: 32px;
+  height: 32px;
+}
+.icon49 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse1574 {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon50 {
+  width: 100%;
+  height: 100%;
+}
+.messageTextCircle24 {
+  width: 40px;
+  height: 40px;
+}
+.icon51 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge7 {
+  position: absolute;
+  left: 97.1065%;
+  right: 1.9676%;
+  top: 1.1628%;
+  bottom: 97.4061%;
+  overflow: visible;
+}
+.icon52 {
+  width: 100%;
+  height: 100%;
+}
+.starLarge8 {
+  position: absolute;
+  left: 97.9745%;
+  right: 1.3889%;
+  top: 1.9678%;
+  bottom: 97.0483%;
+  overflow: visible;
+}
+.icon53 {
+  width: 100%;
+  height: 100%;
+}
+.checkmark {
+  position: absolute;
+  left: calc(50% - 692px);
+  top: calc(50% - 261px);
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.icon54 {
+  width: 100%;
+  height: 100%;
+}
+.checkmark2 {
+  position: absolute;
+  left: calc(50% - 692px);
+  top: calc(50% - 67px);
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.icon55 {
+  width: 100%;
+  height: 100%;
+}
+.checkmark3 {
+  position: absolute;
+  left: calc(50% - 692px);
+  top: calc(50% - -128px);
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.icon56 {
+  width: 100%;
+  height: 100%;
+}
+.checkmark4 {
+  position: absolute;
+  left: calc(50% - 692px);
+  top: calc(50% - -320px);
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.icon57 {
+  width: 100%;
+  height: 100%;
+}
+.checkmark5 {
+  position: absolute;
+  left: calc(50% - 692px);
+  top: calc(50% - -473px);
+  width: 28px;
+  height: 28px;
+  transform: translate(-50%, -50%);
+}
+.icon58 {
+  width: 100%;
+  height: 100%;
+}
+.buttonPrimary5 {
+  position: absolute;
+  left: 207px;
+  top: 1012px;
+  width: min-content;
+  height: 40px;
+  align-items: center;
+  padding: 12px 24px;
+  outline: solid 2px #525886;
+  outline-offset: -2px;
+  border-radius: 73px;
+}
+.takeAQuizToEarnProfessionalLev {
+  color: #525886;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.019em;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
